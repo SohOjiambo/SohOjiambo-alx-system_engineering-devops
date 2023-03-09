@@ -1,1 +1,1 @@
-a script creates a directory with permissions 751
+changes file group
