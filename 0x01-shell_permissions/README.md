@@ -1,1 +1,1 @@
-a script changing file permissions
+a script that sets a file mode as another file
