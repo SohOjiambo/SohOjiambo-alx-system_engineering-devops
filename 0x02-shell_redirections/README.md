@@ -1,1 +1,1 @@
-patterns
+print lines
