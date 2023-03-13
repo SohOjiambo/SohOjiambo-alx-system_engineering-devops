@@ -1,1 +1,1 @@
-find and delete files
+find count directories
