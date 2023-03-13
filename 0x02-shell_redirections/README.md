@@ -1,1 +1,1 @@
-print lines
+lines
