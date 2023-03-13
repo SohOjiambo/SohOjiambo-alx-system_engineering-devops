@@ -1,1 +1,1 @@
-save current state of directory
+find and delete files
