@@ -1,1 +1,1 @@
-unique words
+patterns
